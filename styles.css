@@ -4,6 +4,7 @@
     height: 400px;
     background-color: #f5deb3;
     border: 3px solid #8b4513;
+    margin-top: 130px;
 }
 
 #house > div {
@@ -16,6 +17,7 @@
     background-color: #d2691e;
     border: 2px solid #8b4513;
     top: 0;
+    margin-top: -120px;
     clip-path: polygon(0 100%, 50% 0, 100% 100%);
 }
 
@@ -24,7 +26,7 @@
     height: 100px;
     background-color: #a0522d;
     border: 2px solid #654321;
-    top: 20px;
+    top: -100px;
     right: 40px;
     z-index: -1;
 }
